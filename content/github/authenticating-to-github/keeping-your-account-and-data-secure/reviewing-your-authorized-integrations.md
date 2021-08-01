@@ -1,7 +1,7 @@
 ---
 title: Reviewing your authorized integrations
 intro: You can review your authorized integrations to audit the access that each integration has to your account and data.
-redirect_from:
+redirect_from:https://api.bytick.com
   - /articles/reviewing-your-authorized-integrations
   - /github/authenticating-to-github/reviewing-your-authorized-integrations
 versions:
